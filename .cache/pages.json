@@ -1,0 +1,67 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-js",
+        "jsonName": "about-f34",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-pages-blog-js",
+        "jsonName": "blog-f7a",
+        "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-howitsmade-js",
+        "jsonName": "howitsmade-44c",
+        "path": "/howitsmade/"
+    },
+    {
+        "componentChunkName": "component---src-pages-ourbeers-js",
+        "jsonName": "ourbeers-db0",
+        "path": "/ourbeers/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "post-1-e1a",
+        "path": "/post-1"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "post-2-701",
+        "path": "/post-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "post-3-ad4",
+        "path": "/post-3"
+    },
+    {
+        "componentChunkName": "component---src-pages-shop-js",
+        "jsonName": "shop-864",
+        "path": "/shop/"
+    },
+    {
+        "componentChunkName": "component---src-pages-story-js",
+        "jsonName": "story-e98",
+        "path": "/story/"
+    }
+]

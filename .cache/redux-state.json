@@ -1,0 +1,1946 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "41499f9be899194634ebe78600695363",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e4c6e6994777a70eb2fea5260a345d59",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "643f7a814d3bdf018a824a6e9aad64af",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b365154d956c6e426b58026e19eb5815",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3ec1a6d007bafdaf13a395566ba1b1d0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b69f45de155ef2e0f7fe931b316bef5a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.2",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "42a9b803f0ccc87c978b400964322fb6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ca2c6d45-3cbb-5520-81b0-744c9701d15c": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-catch-links",
+      "id": "ca2c6d45-3cbb-5520-81b0-744c9701d15c",
+      "name": "gatsby-plugin-catch-links",
+      "version": "2.0.9",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "2.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-beta"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "56ad66fef4f44f3fd4c4f92d63a28135",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6b1f2017-e02c-505a-a805-3198a45723d6": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-source-filesystem",
+      "id": "6b1f2017-e02c-505a-a805-3198a45723d6",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.8",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "46825d8ec3e104970c1737136a4854a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "db223e99be7182cacb067d5a38e2be37",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "b778023fd508b10504288477bac213ff",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bootstrap",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.53"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.16"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.14"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "reactstrap",
+            "version": "^6.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.15.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f4d2420e4644eff4799751d19c63e00e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4c3ee134-cc63-558d-a155-39af99188fe2": {
+      "resolve": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-page-creator",
+      "id": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Codepool/Desktop/new-semizburg/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7497d4b9069a3efb5b8d45af3e062af6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Semizburg",
+        "description": "Pivo je sa ljudima dugo koliko i pismo a craft ga je uveo u dvadeset prvi vijek",
+        "author": "codepool"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-12-20T09:47:49.397Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2433db91ad8205dd43cd0662b32fd799",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a38a7385-92dd-59c1-970d-106ccbd27adc": {
+      "id": "a38a7385-92dd-59c1-970d-106ccbd27adc",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "42d3f27ace32c38a387e627a8bb4060f",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 442,
+      "prettySize": "442 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:58.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 13,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152676,
+      "blocks": 0,
+      "atimeMs": 1545299278000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:58.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "9769f68d-c52d-567c-99a5-c0e3bbc9cb34": {
+      "id": "9769f68d-c52d-567c-99a5-c0e3bbc9cb34",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "455729d8d6ec32bccb3b91d19a4a9b38",
+        "type": "Directory",
+        "description": "Directory \"src/pages/17-12-2018\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/17-12-2018",
+      "relativePath": "17-12-2018",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:58.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "17-12-2018",
+      "ext": "",
+      "name": "17-12-2018",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152677,
+      "blocks": 0,
+      "atimeMs": 1545299278000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:58.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "646c529b-d636-55a8-84ba-2c39e899d303": {
+      "id": "646c529b-d636-55a8-84ba-2c39e899d303",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e2a51d125f9cd026d738388e241fef9",
+        "type": "Directory",
+        "description": "Directory \"src/pages/18-12-2018\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/18-12-2018",
+      "relativePath": "18-12-2018",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:58.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "18-12-2018",
+      "ext": "",
+      "name": "18-12-2018",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152679,
+      "blocks": 0,
+      "atimeMs": 1545299278000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:58.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "3423baa4-4977-5eb3-b450-ed80957a535d": {
+      "id": "3423baa4-4977-5eb3-b450-ed80957a535d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d4568df45ea990b37c0229065d3929f6",
+        "type": "Directory",
+        "description": "Directory \"src/pages/19-12-2018\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/19-12-2018",
+      "relativePath": "19-12-2018",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:58.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "19-12-2018",
+      "ext": "",
+      "name": "19-12-2018",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152681,
+      "blocks": 0,
+      "atimeMs": 1545299278000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:58.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "1448a311-a1fe-5b11-846d-8379b8d3b177": {
+      "id": "1448a311-a1fe-5b11-846d-8379b8d3b177",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dd70ab2f27f14ef3afbbb2450e1f0254",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 318,
+      "prettySize": "318 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152683,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "5f0fcad6-c6a5-5f1a-a2b9-eabc54bab39d": {
+      "id": "5f0fcad6-c6a5-5f1a-a2b9-eabc54bab39d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d14e8f41f51121b30ec70ba8cc0679fd",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/about.js",
+      "relativePath": "about.js",
+      "extension": "js",
+      "size": 902,
+      "prettySize": "902 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152684,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "7ff769eb-871e-5fa2-8bcf-f70c5486d700": {
+      "id": "7ff769eb-871e-5fa2-8bcf-f70c5486d700",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "80bece6aeb2d87b73a16f80d850731ef",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 1359,
+      "prettySize": "1.36 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152685,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "940885a9-21f9-5063-941a-34ea8dd156b5": {
+      "id": "940885a9-21f9-5063-941a-34ea8dd156b5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "25a5fd060a53a271f9901d40e7247549",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/howitsmade.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/howitsmade.js",
+      "relativePath": "howitsmade.js",
+      "extension": "js",
+      "size": 2265,
+      "prettySize": "2.27 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "howitsmade.js",
+      "ext": ".js",
+      "name": "howitsmade",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152686,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "ac0ae62a-f059-59fc-bc05-6e1553b12d8d": {
+      "id": "ac0ae62a-f059-59fc-bc05-6e1553b12d8d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5765a3bc678b1866e86824ad398c0e4c",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 627,
+      "prettySize": "627 B",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152687,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "dcec3ae3-2ba3-52a0-91ad-25ab0a03d986": {
+      "id": "dcec3ae3-2ba3-52a0-91ad-25ab0a03d986",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c3c3da617647bd63a3419eac4d8faf9a",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/ourbeers.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/ourbeers.js",
+      "relativePath": "ourbeers.js",
+      "extension": "js",
+      "size": 10238,
+      "prettySize": "10.2 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "ourbeers.js",
+      "ext": ".js",
+      "name": "ourbeers",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152688,
+      "blocks": 24,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "705937f0-18e2-5fb2-be00-464e027139e4": {
+      "id": "705937f0-18e2-5fb2-be00-464e027139e4",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e426ff1fa26a19f16f4bc02a7a031671",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/shop.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/shop.js",
+      "relativePath": "shop.js",
+      "extension": "js",
+      "size": 1900,
+      "prettySize": "1.9 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "shop.js",
+      "ext": ".js",
+      "name": "shop",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152689,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "2dd5e92c-94d8-5365-b876-d3625858f1c9": {
+      "id": "2dd5e92c-94d8-5365-b876-d3625858f1c9",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "70996cf80773f89b5bc11e8ab7faca88",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/story.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/story.js",
+      "relativePath": "story.js",
+      "extension": "js",
+      "size": 1821,
+      "prettySize": "1.82 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages",
+      "base": "story.js",
+      "ext": ".js",
+      "name": "story",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152690,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "33986bef-3d9d-5855-aac8-9825907fc5db": {
+      "id": "33986bef-3d9d-5855-aac8-9825907fc5db",
+      "children": [
+        "08adb2d7-16e3-5370-a3f8-e70bcf462b35"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d88d9d7683c32c966859de9ca189dc1f",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/18-12-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/18-12-2018/index.md",
+      "relativePath": "18-12-2018/index.md",
+      "extension": "md",
+      "size": 1941,
+      "prettySize": "1.94 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages/18-12-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "18-12-2018",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152680,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "a2deabfe-97e1-5dae-a829-a442614dcb78": {
+      "id": "a2deabfe-97e1-5dae-a829-a442614dcb78",
+      "children": [
+        "b7d99d75-8a2e-5c9f-9e48-8990cac234bd"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9cfb2a72b3d86404e2c97100329f9dba",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/17-12-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/17-12-2018/index.md",
+      "relativePath": "17-12-2018/index.md",
+      "extension": "md",
+      "size": 2199,
+      "prettySize": "2.2 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages/17-12-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "17-12-2018",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152678,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "7636ed03-60c5-53f4-a0c6-ff47d2aea5bc": {
+      "id": "7636ed03-60c5-53f4-a0c6-ff47d2aea5bc",
+      "children": [
+        "ab01881f-604d-5a35-b715-767d59dfcacb"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "598ad665ec58000b8158897132fb8e8f",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/19-12-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/19-12-2018/index.md",
+      "relativePath": "19-12-2018/index.md",
+      "extension": "md",
+      "size": 1970,
+      "prettySize": "1.97 kB",
+      "modifiedTime": "2018-12-20T09:47:33.000Z",
+      "accessTime": "2018-12-20T09:47:33.000Z",
+      "changeTime": "2018-12-20T09:47:33.000Z",
+      "birthTime": "2018-12-20T09:47:33.000Z",
+      "root": "/",
+      "dir": "/Users/Codepool/Desktop/new-semizburg/src/pages/19-12-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "19-12-2018",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7152682,
+      "blocks": 8,
+      "atimeMs": 1545299253000,
+      "mtimeMs": 1545299253000,
+      "ctimeMs": 1545299253000,
+      "birthtimeMs": 1545299253000,
+      "atime": "2018-12-20T09:47:33.000Z",
+      "mtime": "2018-12-20T09:47:33.000Z",
+      "ctime": "2018-12-20T09:47:33.000Z",
+      "birthtime": "2018-12-20T09:47:33.000Z"
+    },
+    "08adb2d7-16e3-5370-a3f8-e70bcf462b35": {
+      "id": "08adb2d7-16e3-5370-a3f8-e70bcf462b35",
+      "children": [],
+      "parent": "33986bef-3d9d-5855-aac8-9825907fc5db",
+      "internal": {
+        "content": "\n![](./images/beer2.png)\n\n\nImajući u vidu da je istorijat piva dug skoro deset hiljada godina informacija da se pivo u BiH proizvodi zvanično tek malo više od sto pedeset  godina je u najmanju ruku čudna. Internet kao skup bezbroj informacija i znanja o većini tema čovječanstva začudo ima vrlo malo podataka o pivu u BiH kroz istoriju. Da li je to posljedica dolaska rakije u petnaestom vijeku ili vina koje je došlo još ranije samo je stvar špekulacije. Sirovine za proizvodnju nisu baš česte na području naše zemlje ali za jedno područje koje se nalazi na raskrsnici istoka i zapada i koje je često kroz istoriju bilo u centru dešavanja to i nije neka prepreka.\n\n\nProvjereni podaci kažu da je ozbiljna proizvodnja počela tek krajem devetnaestog vijeka. Centri piva bili su Sarajevo, BanjaLuka i Tuzla. Ove pivare su za vrijeme svog postojanja unaprijedile poznavanje tehnologije i kulturu konzumiranja ovog rasprostranjenog napitka. \n U dvadest prvom vijeku došlo je do ekspanzije piva iz kućne radinosti i malih pivara popularno nazvane craft ili zanatsko pivo. Ove male pivare učinile su čudo za popularizovanje napitka koje prati ljude tako dug vremenski period. \n\n\nS obzirom da je pivo imalo direktan uticaj na razvoj pisma, matematike, poljoprivrede, građevinarstva i mnogih drugih grana nauke i privrede za vrijeme starih civilizacija logično je predpostaviti da bi sadašnjost ovih prostora izgledala drugačije da smo malo na njega više obratili pažnju. \nNa sreću sad imamo dosta craft pivara širom BiH čija budućnost izgleda svijetla. Primjetno se dosta truda ulaže u tehnologiju, razvoj i obrazovanje kadrova u ovoj industriji, a takav pristup će sigurno donijeti pozitivne rezultate. Naše je samo da ih podržimo a to i nije neki težak zadatak jer u pivu uživamo gotovo svi. \n\nŽivjeli!",
+        "type": "MarkdownRemark",
+        "contentDigest": "edd17288213ffabcb807f060cbe55647",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Pivo u BiH",
+        "path": "/post-2",
+        "date": "18-12-2018",
+        "subtitle": "Drugačiji od cijele planete",
+        "_PARENT": "33986bef-3d9d-5855-aac8-9825907fc5db"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n![](./images/beer2.png)\n\n\nImajući u vidu da je istorijat piva dug skoro deset hiljada godina informacija da se pivo u BiH proizvodi zvanično tek malo više od sto pedeset  godina je u najmanju ruku čudna. Internet kao skup bezbroj informacija i znanja o većini tema čovječanstva začudo ima vrlo malo podataka o pivu u BiH kroz istoriju. Da li je to posljedica dolaska rakije u petnaestom vijeku ili vina koje je došlo još ranije samo je stvar špekulacije. Sirovine za proizvodnju nisu baš česte na području naše zemlje ali za jedno područje koje se nalazi na raskrsnici istoka i zapada i koje je često kroz istoriju bilo u centru dešavanja to i nije neka prepreka.\n\n\nProvjereni podaci kažu da je ozbiljna proizvodnja počela tek krajem devetnaestog vijeka. Centri piva bili su Sarajevo, BanjaLuka i Tuzla. Ove pivare su za vrijeme svog postojanja unaprijedile poznavanje tehnologije i kulturu konzumiranja ovog rasprostranjenog napitka. \n U dvadest prvom vijeku došlo je do ekspanzije piva iz kućne radinosti i malih pivara popularno nazvane craft ili zanatsko pivo. Ove male pivare učinile su čudo za popularizovanje napitka koje prati ljude tako dug vremenski period. \n\n\nS obzirom da je pivo imalo direktan uticaj na razvoj pisma, matematike, poljoprivrede, građevinarstva i mnogih drugih grana nauke i privrede za vrijeme starih civilizacija logično je predpostaviti da bi sadašnjost ovih prostora izgledala drugačije da smo malo na njega više obratili pažnju. \nNa sreću sad imamo dosta craft pivara širom BiH čija budućnost izgleda svijetla. Primjetno se dosta truda ulaže u tehnologiju, razvoj i obrazovanje kadrova u ovoj industriji, a takav pristup će sigurno donijeti pozitivne rezultate. Naše je samo da ih podržimo a to i nije neki težak zadatak jer u pivu uživamo gotovo svi. \n\nŽivjeli!",
+      "fileAbsolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/18-12-2018/index.md"
+    },
+    "b7d99d75-8a2e-5c9f-9e48-8990cac234bd": {
+      "id": "b7d99d75-8a2e-5c9f-9e48-8990cac234bd",
+      "children": [],
+      "parent": "a2deabfe-97e1-5dae-a829-a442614dcb78",
+      "internal": {
+        "content": "![](./images/beer1.png)\n\nKrenućemo od činjenice da je pivo naprodavanije piće na svijetu! Tačan momenat nastanka  nije zabilježen ali tragovi proizvodnje i konzumiranja su stari skoro deset hiljada godina. Mišljenje nekih antropologa je čak da je do evolucije u ljudskom društvu od lovaca-sakupljača ka poljoprivrednicima došlo zbog želje da imaju više žita da bi mogli praviti pivo!? \nŠto ga čini drugim najboljim izumom, odmah poslije točka. Sa sigurnošću možemo tvrditi jedino da je nastalo u Mesopotamiji koja, osim što je kolijevka civilizacije, takođe i kolijevka piva. I da nas ono okružuje u prostoru i prati u vremenu\n\n\nPrvi zapisi na glinenim pločama klinastim pismom, stari sedam hiljada godina govore da je proizvodnja piva u to vrijeme bila respektabilan posao. Narodi Mesopotamije u to vrije imali su oko sto šezdeset imena za pivo. Bilo je tako važno da su se pisani jezik i matematika razvijali zbog robne razmjene zasnovane na pivu. Imalo je uglavnom tri procenta alkohola i smatrano je prehrambenim proizvodom i korišteno u svakodnevnoj ishrani ljudi bez obzira na starosnu dob. \n\n\nEgipćani su ga koristili kao novac, imali su boga života, kreacije i piva. Graditelji piramida su dobijali oko četiri litra piva svaki dan. Smatrali da je neophodno u zagrobnom životu i to u količini od hiljadu bokala.\nU srednjem vijeku konzumiralo se umjesto vode koja je često bila zagađena kanalizacijom i drugim otpadom. Crkva ga je u mračnom periodu istorije koristila za privlačenje vjernika obećavajući pivo po završetku vjerskih rituala. Monasi su bili glavni proizvođači i donosili su crkvi ogromno bogatstvo.\n\n\nKasnije u devetnaestom stoljeću Luj Paster je na osnovu posmatranja piva otkrio bakterije i dokazao da su one izazivači bolesti postavljajući time osnove moderne medicine. \nPivarska industrija je zaslužna i za nastanak frižidera bez kojih ne možemo zamisliti modernu svakodnevnicu. \nI tako se lista stvari za koje možemo zahvaliti pivu neprekidno povećava iz dana u dan. Pivo pokreće, unapređuje , liječi, obogaćuje.\n\n Hvala ti pivo!",
+        "type": "MarkdownRemark",
+        "contentDigest": "dd5683e0a4090919f679051b30c6b38a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Istorija piva",
+        "path": "/post-1",
+        "date": "17-12-2018",
+        "subtitle": "Točak pa pivo",
+        "_PARENT": "a2deabfe-97e1-5dae-a829-a442614dcb78"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "![](./images/beer1.png)\n\nKrenućemo od činjenice da je pivo naprodavanije piće na svijetu! Tačan momenat nastanka  nije zabilježen ali tragovi proizvodnje i konzumiranja su stari skoro deset hiljada godina. Mišljenje nekih antropologa je čak da je do evolucije u ljudskom društvu od lovaca-sakupljača ka poljoprivrednicima došlo zbog želje da imaju više žita da bi mogli praviti pivo!? \nŠto ga čini drugim najboljim izumom, odmah poslije točka. Sa sigurnošću možemo tvrditi jedino da je nastalo u Mesopotamiji koja, osim što je kolijevka civilizacije, takođe i kolijevka piva. I da nas ono okružuje u prostoru i prati u vremenu\n\n\nPrvi zapisi na glinenim pločama klinastim pismom, stari sedam hiljada godina govore da je proizvodnja piva u to vrijeme bila respektabilan posao. Narodi Mesopotamije u to vrije imali su oko sto šezdeset imena za pivo. Bilo je tako važno da su se pisani jezik i matematika razvijali zbog robne razmjene zasnovane na pivu. Imalo je uglavnom tri procenta alkohola i smatrano je prehrambenim proizvodom i korišteno u svakodnevnoj ishrani ljudi bez obzira na starosnu dob. \n\n\nEgipćani su ga koristili kao novac, imali su boga života, kreacije i piva. Graditelji piramida su dobijali oko četiri litra piva svaki dan. Smatrali da je neophodno u zagrobnom životu i to u količini od hiljadu bokala.\nU srednjem vijeku konzumiralo se umjesto vode koja je često bila zagađena kanalizacijom i drugim otpadom. Crkva ga je u mračnom periodu istorije koristila za privlačenje vjernika obećavajući pivo po završetku vjerskih rituala. Monasi su bili glavni proizvođači i donosili su crkvi ogromno bogatstvo.\n\n\nKasnije u devetnaestom stoljeću Luj Paster je na osnovu posmatranja piva otkrio bakterije i dokazao da su one izazivači bolesti postavljajući time osnove moderne medicine. \nPivarska industrija je zaslužna i za nastanak frižidera bez kojih ne možemo zamisliti modernu svakodnevnicu. \nI tako se lista stvari za koje možemo zahvaliti pivu neprekidno povećava iz dana u dan. Pivo pokreće, unapređuje , liječi, obogaćuje.\n\n Hvala ti pivo!",
+      "fileAbsolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/17-12-2018/index.md"
+    },
+    "ab01881f-604d-5a35-b715-767d59dfcacb": {
+      "id": "ab01881f-604d-5a35-b715-767d59dfcacb",
+      "children": [],
+      "parent": "7636ed03-60c5-53f4-a0c6-ff47d2aea5bc",
+      "internal": {
+        "content": "\n![](./images/beer3.png)\n\nZabrana točenja i proizvodnje alkohola, poularna u istiriji kao Prohibicija, počela je 16. januara 1920 godine i trajala je do 1933. Period od trinaest godina donio je promjene u pristupu proizvodnji i plasmanu  alkohola i uticao na mnoge aspekte života. Razlozi koja je američka vlada navela kao razlog uspostavljanja zabrane su zapravo bila loša opravdanja. Smanjenje broja kriminalnih aktivnosti, što je bio jedan od osnovnih razloga uvođenja zabrane, se nije desio. Zapravo suprotno. Prohibicija je stvorila plodno tlo za razvoj krijumčarenja, ilegalne proizvodnje i ratova bandi, naročito u Čikagu. Pivo kao razlog ilegalnih poslova zauzimalo je tako važno mjesto da su ratovi bandi dobili naziv Beer Wars.\n\n\nTo što je dio amričke istorije poznat širom svijeta možemo zahvaliti pivu. Kad spominjemo prohibiciju prva asocijacija je žestoki alkohol ali potražnja za pivom je bila daleko veća. Čitave industrije koje su stvorile radna mjesta od dvadesetih godina na ovamo vrte se uglavnom oko piva. Po završetku ovog perioda pojavljuju se razne legalne pivare sa sposobnim osobljem koje je zanat ispeklo ilegalno i u teškim uslovima. Ovakav kadar donio je zavidan rezultat u kvalitetu kad su se našli u idealnim uslovima proizvodnje koje imaju legalni biznisi. \n\n\nInteresantan je podatak da su krijumčari tunirali automobile na takav način da se to nije moglo vidjeti svana. Promjene su bile mehaničke da bi se poboljšale performanse motora i stabilnost. Ovakva vozila su bez problema bježala policiji. Interna takmičenja krijumčara rezultirala su novom disciplinom u auto trkama- NASCAR. Ovo takmičenje se jo zove i Stock Car Racing zbog činjenice da su krijumčarska vozila s vana izgledala obično tj fabrički. \nNajprodavaniji proizvod na današnjim trkama  je, pogodili ste, pivo. \n\n\nŽivjeli!\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "dd804545b6e1ba3caf0eeb0fa4802156",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Beer wars - Prohibicija",
+        "path": "/post-3",
+        "date": "19-12-2018",
+        "subtitle": "Iz ilegalnog u legalno",
+        "_PARENT": "7636ed03-60c5-53f4-a0c6-ff47d2aea5bc"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n![](./images/beer3.png)\n\nZabrana točenja i proizvodnje alkohola, poularna u istiriji kao Prohibicija, počela je 16. januara 1920 godine i trajala je do 1933. Period od trinaest godina donio je promjene u pristupu proizvodnji i plasmanu  alkohola i uticao na mnoge aspekte života. Razlozi koja je američka vlada navela kao razlog uspostavljanja zabrane su zapravo bila loša opravdanja. Smanjenje broja kriminalnih aktivnosti, što je bio jedan od osnovnih razloga uvođenja zabrane, se nije desio. Zapravo suprotno. Prohibicija je stvorila plodno tlo za razvoj krijumčarenja, ilegalne proizvodnje i ratova bandi, naročito u Čikagu. Pivo kao razlog ilegalnih poslova zauzimalo je tako važno mjesto da su ratovi bandi dobili naziv Beer Wars.\n\n\nTo što je dio amričke istorije poznat širom svijeta možemo zahvaliti pivu. Kad spominjemo prohibiciju prva asocijacija je žestoki alkohol ali potražnja za pivom je bila daleko veća. Čitave industrije koje su stvorile radna mjesta od dvadesetih godina na ovamo vrte se uglavnom oko piva. Po završetku ovog perioda pojavljuju se razne legalne pivare sa sposobnim osobljem koje je zanat ispeklo ilegalno i u teškim uslovima. Ovakav kadar donio je zavidan rezultat u kvalitetu kad su se našli u idealnim uslovima proizvodnje koje imaju legalni biznisi. \n\n\nInteresantan je podatak da su krijumčari tunirali automobile na takav način da se to nije moglo vidjeti svana. Promjene su bile mehaničke da bi se poboljšale performanse motora i stabilnost. Ovakva vozila su bez problema bježala policiji. Interna takmičenja krijumčara rezultirala su novom disciplinom u auto trkama- NASCAR. Ovo takmičenje se jo zove i Stock Car Racing zbog činjenice da su krijumčarska vozila s vana izgledala obično tj fabrički. \nNajprodavaniji proizvod na današnjim trkama  je, pogodili ste, pivo. \n\n\nŽivjeli!\n\n",
+      "fileAbsolutePath": "/Users/Codepool/Desktop/new-semizburg/src/pages/19-12-2018/index.md"
+    },
+    "SitePage /post-2": {
+      "jsonName": "post-2-701",
+      "internalComponentName": "ComponentPost2",
+      "path": "/post-2",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "id": "SitePage /post-2",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "879a4fcdfbdc41bbb362ea2c8b159c26",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-1": {
+      "jsonName": "post-1-e1a",
+      "internalComponentName": "ComponentPost1",
+      "path": "/post-1",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "id": "SitePage /post-1",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "937bd87134a5ded787a0e67782e9041c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-3": {
+      "jsonName": "post-3-ad4",
+      "internalComponentName": "ComponentPost3",
+      "path": "/post-3",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js",
+      "id": "SitePage /post-3",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b85684fddb480243d4685a37f971ec7d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8d94e274a1a67ea3bc3d97c80f18ea91",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e85bae425d55e7fd85bd047d1724d473",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "34b176051b2d93ad521331cd745fbe8d",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /howitsmade/": {
+      "jsonName": "howitsmade-44c",
+      "internalComponentName": "ComponentHowitsmade",
+      "path": "/howitsmade/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/howitsmade.js",
+      "componentChunkName": "component---src-pages-howitsmade-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/howitsmade.js",
+      "id": "SitePage /howitsmade/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d009f91514ca5897b7e7e838a650553f",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7678e1f0f44da7ba56183cb21f577ba4",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /ourbeers/": {
+      "jsonName": "ourbeers-db0",
+      "internalComponentName": "ComponentOurbeers",
+      "path": "/ourbeers/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/ourbeers.js",
+      "componentChunkName": "component---src-pages-ourbeers-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/ourbeers.js",
+      "id": "SitePage /ourbeers/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4bb8e3973c9a695166abba77344b24fb",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /shop/": {
+      "jsonName": "shop-864",
+      "internalComponentName": "ComponentShop",
+      "path": "/shop/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/shop.js",
+      "componentChunkName": "component---src-pages-shop-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/shop.js",
+      "id": "SitePage /shop/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2add38e96e4ae381da85ea12d961c7fb",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /story/": {
+      "jsonName": "story-e98",
+      "internalComponentName": "ComponentStory",
+      "path": "/story/",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/story.js",
+      "componentChunkName": "component---src-pages-story-js",
+      "context": {},
+      "pluginCreator___NODE": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "pluginCreatorId": "4c3ee134-cc63-558d-a155-39af99188fe2",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/story.js",
+      "id": "SitePage /story/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f792e86df7ab101125540cf05411187d",
+        "description": "4c3ee134-cc63-558d-a155-39af99188fe2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "56d99b0c5d048fb12abe07c1ff8caa53",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "d9810e113a2ffc493d149dd376b919eb"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-seo-js",
+        "sq--src-pages-index-js"
+      ],
+      "08adb2d7-16e3-5370-a3f8-e70bcf462b35": [
+        "/post-2"
+      ],
+      "b7d99d75-8a2e-5c9f-9e48-8990cac234bd": [
+        "/post-1"
+      ],
+      "ab01881f-604d-5a35-b715-767d59dfcacb": [
+        "/post-3"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-seo-js": 1025518380,
+    "sq--src-pages-index-js": 4130953669,
+    "post-2-701": "443/path---post-2-701-033-ydhGqGURpr1XZ9V03r74el780",
+    "blog-f7a": "644/path---blog-f-7-a-05d-pF6JPvd2sy9z82XGdML6jscTWI",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "post-1-e1a": "404/path---post-1-e-1-a-e1b-KePFbkf1J4btdAex2Udj8YDvJY",
+    "post-3-ad4": "975/path---post-3-ad-4-308-aHTEWde5GFEgg6RcXOql13468",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "howitsmade-44c": "498/path---howitsmade-44-c-11f-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "ourbeers-db0": "995/path---ourbeers-db-0-2e5-NZuapzHg3X9TaN1iIixfv1W23E",
+    "shop-864": "122/path---shop-864-b58-NZuapzHg3X9TaN1iIixfv1W23E",
+    "story-e98": "608/path---story-e-98-6fb-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js": {
+      "query": "query BlogPostByPath(\n  $path: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $path}}) {\n    html\n    frontmatter {\n      path\n      title\n      subtitle\n      date\n    }\n  }\n}\n",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/templates/blog-post.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/.cache/dev-404-page.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/404.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/about.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/blog.js": {
+      "query": "query BlogIndexQuery {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: ASC}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          path\n          date\n          title\n          subtitle\n        }\n        excerpt\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/blog.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/howitsmade.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/howitsmade.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/ourbeers.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/ourbeers.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/shop.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/shop.js"
+    },
+    "/Users/Codepool/Desktop/new-semizburg/src/pages/story.js": {
+      "query": "",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/story.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1025518380
+    },
+    "sq--src-pages-index-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/Codepool/Desktop/new-semizburg/src/pages/index.js",
+      "id": "sq--src-pages-index-js",
+      "jsonName": "sq--src-pages-index-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 4130953669
+    }
+  }
+}
